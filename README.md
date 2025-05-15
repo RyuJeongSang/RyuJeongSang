@@ -8,7 +8,3 @@
 - Collaboration Methodology(Agile Scrum, Waterfall model)
 - Asynchronous processing
 - UI / UX
-
-### Languege
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryujeongsang&layout=demo&theme=demo)
